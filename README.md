@@ -14,9 +14,9 @@
 ![LaTeX](https://img.shields.io/badge/latex-323330?style=flat&logo=latex&logoColor=white)
 
 ### 🎨 Frontend Frameworks / Libraries
-![Angular.js](https://img.shields.io/badge/angular.js-323330?style=flat&logo=angularjs&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/Angular.js-323330?style=flat&logo=angular&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-323330?style=flat&logo=chart.js&logoColor=white) 
-![D3.js](https://img.shields.io/badge/D3.js-323330?style=flat&logo=d3dotjs&logoColor=white)
+![D3.js](https://custom-icon-badges.demolab.com/badge/D3.js-323330?style=flat&logo=d3.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-323330?style=flat&logo=electron&logoColor=white) 
 ![Ionic](https://img.shields.io/badge/Ionic-323330?style=flat&logo=ionic&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-323330?style=flat&logo=vuedotjs&logoColor=white) 
@@ -53,8 +53,7 @@
 
 ### 🎨 Design UI Tools and Others
 ![Figma](https://img.shields.io/badge/Figma-323330?style=flat&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-323330?style=flat&logo=adobe%20illustrator&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-323330?style=flat&logo=Adobe%20XD&logoColor=white) 
+![Adobe Illustrator](https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-323330?style=flat&logo=adobeillustrator&logoColor=white) 
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-323330?style=flat&logo=Adobe%20Audition&logoColor=white)
 ![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-323330?style=flat&logo=finalcutpro&logoColor=white)
 
